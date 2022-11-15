@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript , Typescript and some familiar framework Angular , Vue JS and React JS ....
 - 🌱 I’m currently learning mobile development with Flutter (Dart) and React Native
 - 💞️ I’m looking to collaborate on stronger Teams 
-- 📫 How to reach me become better in live coding
+- 📫 How to reach me become better Software Developer
 
 <!---
 volcano2208/volcano2208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
