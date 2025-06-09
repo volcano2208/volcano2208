@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Devin
+- 👋 Hi, I’m Duong
 - 👀 I’m interested in Javascript and Typescript, Python, C# , Dart
 - 💞️ I’m looking to collaborate on stronger Teams 
